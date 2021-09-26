@@ -1,0 +1,83 @@
+[
+  {
+    "key": "LZ2W",
+    "name": "James Gosling",
+    "work": "Java Creator",
+    "age": 54,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/James_Gosling_2008.jpg",
+    "salary": 260000
+  },
+  {
+    "key": "K1IO",
+    "name": "Richard Stallman",
+    "work": "GNU Project Creato",
+    "age": 70,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Richard_Stallman_at_LibrePlanet_2019.jpg",
+    "salary": 300000
+  },
+  {
+    "key": "LD4M",
+    "name": "Bjarne Stroustrup",
+    "work": "C++ Creator",
+    "age": 60,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bjarne-stroustrup_%28cropped%29.jpg",
+    "salary": 180000
+  },
+  {
+    "key": "M18U",
+    "name": "Tim Berners-Lee",
+    "work": "HTML and WWW inventor",
+    "age": 50,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg",
+    "salary": 230000
+  },
+  {
+    "key": "DBGV",
+    "name": "Ken Thompson",
+    "work": "UNIX Co-Creator",
+    "age": 63,
+    "country": "USA",
+    "img": "https://www.invent.org/sites/default/files/styles/inductee_detail_media/public/inductees/2019-01/Thompson%2C%20Ken.jpg?h=3acae0aa&itok=k_QQpzpZ",
+    "salary": 200000
+  },
+  {
+    "key": "5WXL",
+    "name": "Linus Torvalds",
+    "work": "Linux Kernel Creator",
+    "age": 55,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg",
+    "salary": 210000
+  },
+  {
+    "key": "Y4GZ",
+    "name": "Dennis Ritchie",
+    "work": "C language creator",
+    "age": 59,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Dennis_Ritchie_2011.jpg",
+    "salary": 270000
+  },
+  {
+    "key": "XJJG",
+    "name": "Jack Dorsey",
+    "work": "Twitter Creator",
+    "age": 72,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jack_Dorsey_2014_%28cropped%29.jpg/800px-Jack_Dorsey_2014_%28cropped%29.jpg",
+    "salary": 220000
+  },
+  {
+    "key": "NBE6",
+    "name": "Drew Houston",
+    "work": "Dropbox Creator",
+    "age": 60,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Drew_Houston.jpg",
+    "salary": 250000
+  }
+]

@@ -1,0 +1,9 @@
+.cart-img{
+    width: 70px;
+    height: 70px;
+}
+.cart-details{
+    background-color:#345B63;
+    color: #FFF;
+    margin:0px 10px;
+}

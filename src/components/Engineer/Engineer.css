@@ -1,0 +1,17 @@
+/* Engineer Component css */
+.img{
+    padding-top:20px;
+    width: 130px;
+    height: 150px;
+}
+p{
+    margin: 0px;
+}
+.btn-add{
+    background-color:#152D35;
+    color:#fff;
+}
+.btn-add:hover{
+    background-color:#345B63;
+    color:#fff;
+}
